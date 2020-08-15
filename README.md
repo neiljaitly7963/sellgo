@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out the live project at https://neiljaitly7963.github.io/sellgo/
+
+##Run on Local Machine
+Clone Repo
+  run npm install
+  npm start
+  check locakhost:3000
+  
+state management => Redux
+middleware => redux thunk && redux logger
+styling =>> Tachyons && Material-UI
+
 ## Available Scripts
 
 In the project directory, you can run:
