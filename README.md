@@ -8,6 +8,7 @@ Clone Repo <br />
   npm start <br />
   check locakhost:3000 <br />
   
+## Dependency <br />
 state management => Redux <br />
 middleware => redux thunk && redux logger <br />
 styling =>> Tachyons && Material-UI <br />
