@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sellgo/static/css/main.cd6ceb76.chunk.css",
+    "main.js": "/sellgo/static/js/main.2faf0293.chunk.js",
+    "main.js.map": "/sellgo/static/js/main.2faf0293.chunk.js.map",
+    "runtime-main.js": "/sellgo/static/js/runtime-main.5fe708cd.js",
+    "runtime-main.js.map": "/sellgo/static/js/runtime-main.5fe708cd.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/sellgo/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.09a72045.chunk.js": "/sellgo/static/js/2.09a72045.chunk.js",
+    "static/js/2.09a72045.chunk.js.map": "/sellgo/static/js/2.09a72045.chunk.js.map",
+    "index.html": "/sellgo/index.html",
+    "precache-manifest.31574c141dd3fab3cc6a9738a5e5c913.js": "/sellgo/precache-manifest.31574c141dd3fab3cc6a9738a5e5c913.js",
+    "service-worker.js": "/sellgo/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/sellgo/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.cd6ceb76.chunk.css.map": "/sellgo/static/css/main.cd6ceb76.chunk.css.map",
+    "static/js/2.09a72045.chunk.js.LICENSE.txt": "/sellgo/static/js/2.09a72045.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sellgo/static/media/SEGA.12a3db8b.woff",
+    "static/media/search.svg": "/sellgo/static/media/search.f59b0276.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fe708cd.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.09a72045.chunk.js",
+    "static/css/main.cd6ceb76.chunk.css",
+    "static/js/main.2faf0293.chunk.js"
+  ]
+}
