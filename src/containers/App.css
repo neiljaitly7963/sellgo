@@ -1,0 +1,75 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1{
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #0ccac4;
+}
+
+form input,
+form button {
+  padding: 0.5rem;
+  font-size: 1.3rem;
+  border: none;
+
+  color: #e2e2e2;
+}
+
+form button {
+  color: #de4c4a;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 50%;
+}
+
+form button:hover {
+  background: #de4c4a;
+  color: black;
+}
+
+.todo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-list {
+  min-width: 22%;
+  list-style: none;
+}
+
+.todo {
+  margin: 0.5rem;
+  border-radius: 2px;
+  background: #161616;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+  color: #e2e2e2;
+  border-radius: 3px;
+  transition: all 0.6s ease;
+}
+
+.todo li {
+  flex: 1;
+}
+
+.trash-btn,
+.complete-btn {
+  border: none;
+  padding: 1rem;
+  background: #de4c4a;
+  color: #ffffff;
+}
+
+.trash-btn {
+  border-top-right-radius: 3px;
+  background: #161616;
+}
+
