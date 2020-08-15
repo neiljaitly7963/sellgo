@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Check out the live project at https://neiljaitly7963.github.io/sellgo/
 
-##Run on Local Machine <br />
+## Run on Local Machine <br />
 Clone Repo <br />
   run npm install <br />
   npm start <br />
